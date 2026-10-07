@@ -1,0 +1,6 @@
+{
+  "name": "Oficina Mecânica Sistema",
+  "description": "Sistema de gestão para oficina mecânica com agendamentos, clientes, estoque, financeiro e ordens de serviço.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
